@@ -18,10 +18,11 @@ hr {
 
 .navtitle {
   color: #747474 !important;
+
 }
 
 .jumbotron {
-  background-image: url("muneeb-syed-252627-unsplash.jpg");
+  background-image: url('muneeb-syed-252627-unsplash.jpg');
 }
 
 .first {
