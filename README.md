@@ -1,5 +1,5 @@
 # focus-list-maker
-An simple todo app, using html and javascript (jquery).
+A simple todo app, using html and javascript (jquery).
 
 Main Features:
 1. Creating new tasks.
